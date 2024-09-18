@@ -1,5 +1,5 @@
 # Customer Management System
-This is a simple application that allows users to manage customer records with functionalities to view, add, edit, and delete entries from a MySQL database.
+This is a simple application that allows users to manage customer records with functionalities to view, add, edit, and delete entries from a MySQL database. The backend contains API implementation for basic CRUD operation for customers. The frontend contains project for simple frontend for displaying customers in database and provides UI for CRUD operation.
 
 # Setup
 ## Configure the Database
